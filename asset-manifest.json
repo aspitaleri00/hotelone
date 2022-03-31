@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hotelone/static/css/main.2ec4a35d.css",
+    "main.js": "/hotelone/static/js/main.db517c95.js",
+    "static/media/indoorpool1.jpg": "/hotelone/static/media/indoorpool1.20948a8f8b653a25560c.jpg",
+    "static/media/sungoesdown.jpg": "/hotelone/static/media/sungoesdown.3fea78fa23a81f335fef.jpg",
+    "static/media/suite2.jpg": "/hotelone/static/media/suite2.60ae7ee11e548122ccba.jpg",
+    "static/media/outdoorpool.jpg": "/hotelone/static/media/outdoorpool.9c5b4b30c600b2fe4aa1.jpg",
+    "static/media/executive.jpg": "/hotelone/static/media/executive.249783b81b6f10ed8dd4.jpg",
+    "static/media/bar.jpg": "/hotelone/static/media/bar.f6c0c11ece3c75677ad5.jpg",
+    "static/media/standar.jpg": "/hotelone/static/media/standar.fc1a15291b720c769435.jpg",
+    "static/media/withbalcony.jpg": "/hotelone/static/media/withbalcony.da4ca0142af6be998510.jpg",
+    "static/media/logo.jpeg": "/hotelone/static/media/logo.db23c7432eff21289f67.jpeg",
+    "index.html": "/hotelone/index.html",
+    "main.2ec4a35d.css.map": "/hotelone/static/css/main.2ec4a35d.css.map",
+    "main.db517c95.js.map": "/hotelone/static/js/main.db517c95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ec4a35d.css",
+    "static/js/main.db517c95.js"
+  ]
+}
